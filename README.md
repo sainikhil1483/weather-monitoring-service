@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Weather Monitoring Service
 
 ## Overview
@@ -262,3 +263,6 @@ No API key is required.
 ## Author
 
 Sai Nikhil
+=======
+# weather-monitoring-service
+>>>>>>> 46fcefb1e8c2653b32877b1b9a933ad6d3e465fc
