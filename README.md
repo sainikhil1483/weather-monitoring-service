@@ -259,8 +259,4 @@ No API key is required.
 
 ---
 
-## Author
-
-Sai Nikhil
-=======
 
